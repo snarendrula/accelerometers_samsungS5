@@ -13,3 +13,6 @@ Steps followed to get to the tidy data:
 5. In this excercise we need to report mean and standard devaiation for different signals from the smart phone. 
 6. Merge two data sets test and train and assign required mean and standard deviation columns to output. 
 7. Save the output in the current working directory.
+
+
+Assumptions: Required packages has been installed. 
